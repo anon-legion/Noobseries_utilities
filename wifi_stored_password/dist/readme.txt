@@ -1,0 +1,2 @@
+wifi_stored_password.exe creates a text file "WIFI_stored_{date_tag}.txt with all the wifi SSIDs and PWs stored on the device on it
+useful when you've forgotten the PW of a wifi you've connected to or just sharing wifi accounts so others can connect to them also.
